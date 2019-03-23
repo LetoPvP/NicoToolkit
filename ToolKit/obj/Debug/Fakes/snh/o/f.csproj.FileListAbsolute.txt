@@ -1,0 +1,9 @@
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.xml
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.pdb
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csproj.CoreCompileInputs.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\System.Net.Http.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\System.Net.Http.Fakes.pdb

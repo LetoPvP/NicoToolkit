@@ -1,0 +1,122 @@
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\bin\Debug\NicoToolkit.exe.config
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\bin\Debug\NicoToolkit.exe
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\bin\Debug\NicoToolkit.pdb
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\bin\Debug\NicoToolkit.xml
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\ToolKit.vbproj.ResolveComReference.cache
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolKit.codigos.resources
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolKit.empres.resources
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolKit.Form1.resources
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolKit.Resources.resources
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\ToolKit.vbproj.GenerateResource.Cache
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolkit.exe
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolkit.xml
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolkit.pdb
+C:\Users\Nico GrupoICS\documents\visual studio 2017\Projects\ToolKit\ToolKit\obj\Debug\ToolKit.vbprojFakesResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\ToolKit\bin\Debug\NicoToolkit.exe.config
+C:\Users\Nico\Desktop\ToolKit\bin\Debug\NicoToolkit.exe
+C:\Users\Nico\Desktop\ToolKit\bin\Debug\NicoToolkit.pdb
+C:\Users\Nico\Desktop\ToolKit\bin\Debug\NicoToolkit.xml
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\ToolKit.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\ToolKit.vbproj.ResolveComReference.cache
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolKit.codigos.resources
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolKit.empres.resources
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolKit.Form1.resources
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolKit.Resources.resources
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\ToolKit.vbproj.GenerateResource.cache
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\ToolKit.vbproj.CopyComplete
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolkit.exe
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolkit.xml
+C:\Users\Nico\Desktop\ToolKit\obj\Debug\NicoToolkit.pdb
+C:\Users\Nico GrupoICS\Documents\Visual Studio 2017\Projects\ToolKit\ToolKit\obj\Debug\ToolKit.vbprojResolveAssemblyReference.cache
+C:\Users\Nico GrupoICS\documents\visual studio 2017\Projects\ToolKit\ToolKit\obj\Debug\NicoToolKit.settings_toolkit.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe.config
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.pdb
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.xml
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.ResolveComReference.cache
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.codigos.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.empres.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Form1.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Resources.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.settings_toolkit.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.GenerateResource.cache
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.CopyComplete
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.exe
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.xml
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.pdb
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.screen_shot.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.task_send.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe.config
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.pdb
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.xml
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbprojFakesResolveAssemblyReference.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.ResolveComReference.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.codigos.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.empres.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Form1.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Resources.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.screen_shot.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.settings_toolkit.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.task_send.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.GenerateResource.Cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.exe
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.xml
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.pdb
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.menu_notifications.resources
+C:\Users\Nico\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.menu_notifications.resources
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbprojResolveAssemblyReference.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\fakes.args
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.fakesconfig
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.pdb
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\b\System.Net.Http.Fakes.xml
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.ah
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.ch
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.cs
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.csproj
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.fakes
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.fakesconfig
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\f.snk
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csproj.CopyComplete
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csproj.CoreCompileInputs.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csproj.FileListAbsolute.txt
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\System.Net.Http.Fakes.dll
+C:\Users\Nico GrupoICS\Desktop\Project GrupoICS\NicoToolkit\ToolKit\obj\Debug\Fakes\snh\o\System.Net.Http.Fakes.pdb
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe.config
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.exe
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.pdb
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\bin\Debug\NicoToolkit.xml
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\Interop.TaskScheduler.dll
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.ResolveComReference.cache
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.codigos.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.empres.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Form1.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.menu_notifications.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.Resources.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.screen_shot.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.settings_toolkit.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.task_send.resources
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.GenerateResource.cache
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.CoreCompileInputs.cache
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbproj.CopyComplete
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.exe
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.xml
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolkit.pdb
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\ToolKit.vbprojAssemblyReference.cache
+C:\Users\LetoPvP\Desktop\NicoToolkit\ToolKit\obj\Debug\NicoToolKit.informe_lock.resources
