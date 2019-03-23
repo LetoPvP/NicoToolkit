@@ -1,6 +1,6 @@
 # NicoToolkit
 
-<img src="">
+<img src="http://projectzero.es/images/nicotoolkitinstaller_ejemplo.PNG">
 
 **Funciones que incluye**
 
