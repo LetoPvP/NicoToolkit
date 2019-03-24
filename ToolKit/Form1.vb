@@ -265,11 +265,6 @@ Public Class Form1
         Comprobar_version()
     End Sub
 
-    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
-        My.Computer.Registry.LocalMachine.OpenSubKey("SOFTWARE\Wow6432Node", True).CreateSubKey("NicoToolkit")
-
-    End Sub
-
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'comprobar
         codigos.LoadHome()
@@ -279,10 +274,4 @@ Public Class Form1
         'If My.Settings.new_instance = False Then Comprobar_version()
     End Sub
 
-
-    Public Sub prueba_install()
-
-        If My.Computer.Registry.GetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "New_instalation", Nothing) = "FALSE" Then MsgBox("Existe y Falso")
-        If My.Computer.Registry.GetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "New_instalation", Nothing) = "TRUE" Then MsgBox("Existe y True")
-    End Sub
 End Class

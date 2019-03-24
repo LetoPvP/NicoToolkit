@@ -107,7 +107,6 @@ Partial Class Form1
         Me.PbLogo = New System.Windows.Forms.PictureBox()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.TmrUpdate = New System.Windows.Forms.Timer(Me.components)
-        Me.Button1 = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox19, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox18, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -1081,15 +1080,6 @@ Partial Class Form1
         '
         Me.TmrUpdate.Interval = 6000000
         '
-        'Button1
-        '
-        Me.Button1.Location = New System.Drawing.Point(486, 40)
-        Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
-        Me.Button1.TabIndex = 41
-        Me.Button1.Text = "Button1"
-        Me.Button1.UseVisualStyleBackColor = True
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1097,7 +1087,6 @@ Partial Class Form1
         Me.BackColor = System.Drawing.Color.White
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(900, 500)
-        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Controls.Add(Me.label_version_app)
         Me.Controls.Add(Me.PictureBox3)
@@ -1265,5 +1254,4 @@ Partial Class Form1
     Friend WithEvents PictureBox26 As PictureBox
     Friend WithEvents PictureBox28 As PictureBox
     Friend WithEvents TmrUpdate As Timer
-    Friend WithEvents Button1 As Button
 End Class
