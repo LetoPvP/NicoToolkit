@@ -355,27 +355,26 @@ Public Class codigos
     End Sub
     Public Sub migration()
         'COMPROBAMOS PRIMERA INSTANCIA Y REGISTRAMOS PRIMER USO
-        If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", "TRUE")
-        If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", "ProjectZero.es")
-        If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "GodMode", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "GodMode", "FALSE")
+        'If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", "TRUE")
+        'If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", "ProjectZero.es")
+        'If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "GodMode", Nothing) Is Nothing Then My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "GodMode", "FALSE")
 
         'MIGRAMOS DATOS ANTIGUAS INSTANCIAS
-        Try
-            If My.Computer.Registry.GetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "New_instalation", Nothing) = "FALSE" Then
-                My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", "FALSE")
-                My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", My.Settings.empresa)
-                Instalacion_win()
-                'LIMPIAMOS DATOS ANTIGUOS
-                My.Computer.Registry.CurrentUser.DeleteSubKey("Software\NicoToolkit")
-            Else
-                'INSTALACION NUEVAS INSTANCIAS
-                If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", Nothing) <> My.Settings.empresa Then empres.Show()
-            End If
-        Catch ex As Exception
-            MsgBox("no se pueden migrar los datos")
-        End Try
+
+        If My.Computer.Registry.GetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "New_instalation", Nothing) = "FALSE" Then
+            My.Settings.new_instalation = "FALSE"
+            'My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "Empresa", My.Settings.empresa)
+            Instalacion_win()
+            'LIMPIAMOS DATOS ANTIGUOS
+            My.Computer.Registry.CurrentUser.DeleteSubKey("Software\NicoToolkit")
+        Else
+            'INSTALACION NUEVAS INSTANCIAS
+            If My.Settings.empresa = "Projectzero.es" Then empres.Show()
+            If My.Settings.empresa = "" Then empres.Show()
+        End If
+
         'ACTIVAR MODO ADMIN
-        If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "GodMode", Nothing) = "TRUE" Then
+        If My.Settings.GodMode = "TRUE" Then
             GOD_modeON()
         Else
             GOD_modeOFF()
@@ -391,7 +390,7 @@ Public Class codigos
         Form1.Panel1.BringToFront()
         My.Settings.username_pc = Environment.UserName
         Form1.username_text.Text = My.Settings.username_pc & "   [" & My.Settings.empresa & "]"
-        Form1.label_version_app.Text = "Versión " & My.Settings.version_local
+        Form1.label_version_app.Text = "Revisión " & My.Settings.version_local
         checkstate_pc()
         If My.Settings.min_interface = True Then Ocultar_form()
         Infopc()

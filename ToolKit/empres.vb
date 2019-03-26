@@ -10,9 +10,9 @@
             Me.Close()
         End If
 
-        My.Computer.Registry.SetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "Empresa", My.Settings.empresa)
+        'My.Computer.Registry.SetValue("HKEY_CURRENT_USER\SOFTWARE\NicoToolkit", "Empresa", My.Settings.empresa)
         Form1.username_text.Text = My.Settings.username_pc & "   [" & My.Settings.empresa & "]"
-        My.Computer.Registry.SetValue("HKEY_LOCAL_MACHINE\SOFTWARE\NicoToolkit", "New_instalation", "FALSE")
+        My.Settings.new_instalation = "FALSE"
         codigos.Instalacion_win()
         'Dim filew As System.IO.StreamWriter
         'filew = My.Computer.FileSystem.OpenTextFileWriter("C:\GrupoICS\data.txt", True)

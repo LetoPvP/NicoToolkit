@@ -101,7 +101,8 @@ Public Class Form1
     End Sub
     Private Sub LbInformeTask_Click(sender As Object, e As EventArgs) Handles LbInformeTask.Click
         'PANEL PROGRAMADOR REVISIONES
-        Panel6.BringToFront()
+        MsgBox("Deshabilitado temporalmente...")
+        'Panel6.BringToFront()
         ComboBox1.SelectedItem = My.Settings.day_program
         ComboBox2.SelectedItem = My.Settings.hour_program
         ComboBox3.SelectedItem = My.Settings.min_program

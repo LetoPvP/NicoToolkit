@@ -43,7 +43,7 @@ Partial Class informe_lock
         Me.PictureBox2.Dock = System.Windows.Forms.DockStyle.Left
         Me.PictureBox2.Location = New System.Drawing.Point(0, 0)
         Me.PictureBox2.Name = "PictureBox2"
-        Me.PictureBox2.Size = New System.Drawing.Size(2, 176)
+        Me.PictureBox2.Size = New System.Drawing.Size(2, 175)
         Me.PictureBox2.TabIndex = 60
         Me.PictureBox2.TabStop = False
         '
@@ -52,7 +52,7 @@ Partial Class informe_lock
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Bahnschrift", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle))
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(120, 127)
+        Me.Label2.Location = New System.Drawing.Point(134, 127)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(337, 16)
         Me.Label2.TabIndex = 59
@@ -67,9 +67,9 @@ Partial Class informe_lock
         '
         Me.PictureBox3.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.PictureBox3.Dock = System.Windows.Forms.DockStyle.Right
-        Me.PictureBox3.Location = New System.Drawing.Point(597, 0)
+        Me.PictureBox3.Location = New System.Drawing.Point(598, 0)
         Me.PictureBox3.Name = "PictureBox3"
-        Me.PictureBox3.Size = New System.Drawing.Size(2, 174)
+        Me.PictureBox3.Size = New System.Drawing.Size(2, 173)
         Me.PictureBox3.TabIndex = 62
         Me.PictureBox3.TabStop = False
         '
@@ -77,9 +77,9 @@ Partial Class informe_lock
         '
         Me.PictureBox4.BackColor = System.Drawing.SystemColors.MenuHighlight
         Me.PictureBox4.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.PictureBox4.Location = New System.Drawing.Point(2, 174)
+        Me.PictureBox4.Location = New System.Drawing.Point(2, 173)
         Me.PictureBox4.Name = "PictureBox4"
-        Me.PictureBox4.Size = New System.Drawing.Size(597, 2)
+        Me.PictureBox4.Size = New System.Drawing.Size(598, 2)
         Me.PictureBox4.TabIndex = 61
         Me.PictureBox4.TabStop = False
         '
@@ -87,7 +87,7 @@ Partial Class informe_lock
         '
         Me.PbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PbLogo.Image = Global.NicoToolKit.My.Resources.Resources.logo_ics
-        Me.PbLogo.Location = New System.Drawing.Point(147, 12)
+        Me.PbLogo.Location = New System.Drawing.Point(164, 12)
         Me.PbLogo.Name = "PbLogo"
         Me.PbLogo.Size = New System.Drawing.Size(275, 94)
         Me.PbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -100,7 +100,7 @@ Partial Class informe_lock
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Top
         Me.PictureBox1.Location = New System.Drawing.Point(2, 0)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(595, 2)
+        Me.PictureBox1.Size = New System.Drawing.Size(596, 2)
         Me.PictureBox1.TabIndex = 64
         Me.PictureBox1.TabStop = False
         '
@@ -109,7 +109,7 @@ Partial Class informe_lock
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.ClientSize = New System.Drawing.Size(599, 176)
+        Me.ClientSize = New System.Drawing.Size(600, 175)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.PbLogo)
         Me.Controls.Add(Me.PictureBox3)

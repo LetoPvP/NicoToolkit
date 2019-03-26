@@ -72,7 +72,7 @@ Partial Class empres
         '
         Me.PbLogo.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.PbLogo.Image = Global.NicoToolKit.My.Resources.Resources.logo_ics
-        Me.PbLogo.Location = New System.Drawing.Point(177, 8)
+        Me.PbLogo.Location = New System.Drawing.Point(175, 8)
         Me.PbLogo.Name = "PbLogo"
         Me.PbLogo.Size = New System.Drawing.Size(275, 94)
         Me.PbLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
@@ -114,7 +114,7 @@ Partial Class empres
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Bahnschrift", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle))
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(198, 108)
+        Me.Label2.Location = New System.Drawing.Point(193, 108)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(231, 16)
         Me.Label2.TabIndex = 65

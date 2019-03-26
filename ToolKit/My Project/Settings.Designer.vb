@@ -56,7 +56,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("1.8.9")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("189")>  _
         Public Property version_local() As String
             Get
                 Return CType(Me("version_local"),String)
@@ -80,7 +80,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Projectzero.es")>  _
         Public Property empresa() As String
             Get
                 Return CType(Me("empresa"),String)
@@ -303,6 +303,18 @@ Namespace My
             End Get
             Set
                 Me("error_code") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("FALSE")>  _
+        Public Property GodMode() As String
+            Get
+                Return CType(Me("GodMode"),String)
+            End Get
+            Set
+                Me("GodMode") = value
             End Set
         End Property
     End Class

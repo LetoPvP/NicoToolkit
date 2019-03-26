@@ -708,6 +708,7 @@ Partial Class Form1
         'LbInformeTask
         '
         Me.LbInformeTask.AutoSize = True
+        Me.LbInformeTask.BackColor = System.Drawing.Color.DimGray
         Me.LbInformeTask.Font = New System.Drawing.Font("Bahnschrift", 9.75!)
         Me.LbInformeTask.Location = New System.Drawing.Point(23, 103)
         Me.LbInformeTask.Name = "LbInformeTask"
@@ -935,9 +936,9 @@ Partial Class Form1
         Me.label_version_app.ForeColor = System.Drawing.Color.Gray
         Me.label_version_app.Location = New System.Drawing.Point(3, 474)
         Me.label_version_app.Name = "label_version_app"
-        Me.label_version_app.Size = New System.Drawing.Size(78, 16)
+        Me.label_version_app.Size = New System.Drawing.Size(50, 16)
         Me.label_version_app.TabIndex = 40
-        Me.label_version_app.Text = "version 1.3.3"
+        Me.label_version_app.Text = "Rev 188"
         '
         'PictureBox3
         '

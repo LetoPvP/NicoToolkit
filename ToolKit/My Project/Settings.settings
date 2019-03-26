@@ -3,13 +3,13 @@
   <Profiles />
   <Settings>
     <Setting Name="version_local" Type="System.String" Scope="User">
-      <Value Profile="(Default)">1.8.9</Value>
+      <Value Profile="(Default)">189</Value>
     </Setting>
     <Setting Name="username_pc" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="empresa" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">Projectzero.es</Value>
     </Setting>
     <Setting Name="empresa_exist" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
@@ -64,6 +64,9 @@
     </Setting>
     <Setting Name="error_code" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GodMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FALSE</Value>
     </Setting>
   </Settings>
 </SettingsFile>
