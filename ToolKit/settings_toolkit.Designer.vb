@@ -173,6 +173,7 @@ Partial Class settings_toolkit
         Me.check_hola_win.TabIndex = 45
         Me.check_hola_win.Text = "Ejecutar NicoToolkit al inicio de sesión. "
         Me.check_hola_win.UseVisualStyleBackColor = True
+        Me.check_hola_win.Visible = False
         '
         'check_min_interface
         '
@@ -185,6 +186,7 @@ Partial Class settings_toolkit
         Me.check_min_interface.TabIndex = 46
         Me.check_min_interface.Text = "Iniciar minimizado."
         Me.check_min_interface.UseVisualStyleBackColor = True
+        Me.check_min_interface.Visible = False
         '
         'check_srv
         '
@@ -210,6 +212,7 @@ Partial Class settings_toolkit
         Me.check_GOD.TabIndex = 48
         Me.check_GOD.Text = "Activar modo DIOS."
         Me.check_GOD.UseVisualStyleBackColor = True
+        Me.check_GOD.Visible = False
         '
         'ProgressBar1
         '

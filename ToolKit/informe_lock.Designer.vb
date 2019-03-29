@@ -50,13 +50,13 @@ Partial Class informe_lock
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Bahnschrift", 9.75!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle))
+        Me.Label2.Font = New System.Drawing.Font("Bahnschrift", 9.75!, System.Drawing.FontStyle.Bold)
         Me.Label2.ForeColor = System.Drawing.Color.Black
         Me.Label2.Location = New System.Drawing.Point(134, 127)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(337, 16)
+        Me.Label2.Size = New System.Drawing.Size(343, 16)
         Me.Label2.TabIndex = 59
-        Me.Label2.Text = "Generando informe, en breves momentos podrá continuar."
+        Me.Label2.Text = "Generando informe, en breves momentos podrá continuar..."
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Timer1

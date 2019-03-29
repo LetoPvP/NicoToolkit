@@ -262,6 +262,10 @@ Public Class Form1
         PictureBox26.BorderStyle = BorderStyle.None
     End Sub
 
+    Private Sub lb_ProductkeyWindows_Click(sender As Object, e As EventArgs) Handles lb_ProductkeyWindows.Click
+        codigos.GetLicenceWindows("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\", "DigitalProductId")
+    End Sub
+
     Private Sub TmrUpdate_Tick(sender As Object, e As EventArgs) Handles TmrUpdate.Tick
         Comprobar_version()
     End Sub

@@ -4,7 +4,7 @@
     Private Sub menu_notifications_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim r As Rectangle = My.Computer.Screen.WorkingArea
         Location = New Point(r.Width - Width, r.Height - Height)
-        label_version_app.Text = "Versión " & My.Settings.version_local
+        label_version_app.Text = "Revisión " & My.Settings.version_local
         menu_programacion()
     End Sub
 
